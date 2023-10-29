@@ -34,7 +34,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.example.Main</mainClass> <!-- Specify your main class here -->
+                            <mainClass>com.example.WordLengthCalculator</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
